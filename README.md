@@ -1,2 +1,1 @@
-# soled
-Angular Web Store
+Soled
